@@ -1,0 +1,15 @@
+{
+  "name": "browserify-spud-bundle",
+  "version": "1.0.0",
+  "description": "A browserify transform for spud bundles",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "keywords": [
+    "i18n",
+    "browserify"
+  ],
+  "author": "Aria Stewart <ariastewart@paypal.com>",
+  "license": "Apache 2.0"
+}
