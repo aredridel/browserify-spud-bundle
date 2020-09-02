@@ -13,7 +13,7 @@
   "author": "Aria Stewart <ariastewart@paypal.com>",
   "license": "Apache 2.0",
   "devDependencies": {
-    "bl": "^0.9.3",
+    "bl": "^4.0.3",
     "browserify": "^6.1.0",
     "tape": "^3.0.0"
   },
